@@ -17,7 +17,7 @@
 ## Git clone
 
 ```
-git clone https://github.com/eee-lin/keio-meeting.git
+git clone git@github.com:cirusthenter/KeioMeeting.git
 cd keio-meeting
 ```
 
